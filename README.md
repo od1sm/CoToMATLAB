@@ -1,7 +1,7 @@
 # CoToMATLAB
 Videos generated from Monte Carlo simulations of hard discs in the NVT ensemble , either with or without Periodic Boundary Conditions.
 
-The following ones were rendered with 1000 dpi and then encoded, to overcome github's limit of 10 MB. 
+The following ones were rendered with 1000 dpi and then encoded, to overcome github's limit of 10 MB. Original files are also uploaded in splitted zips in the repo.
 
 
 - [CoToMATLAB](#cotomatlab)
