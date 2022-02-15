@@ -1,6 +1,30 @@
 # CoToMATLAB
 Videos generated from Monte Carlo simulations of hard discs in the NVT ensemble , either with or without Periodic Boundary Conditions.
-The following ones were rendered with 1000 dpi and then encoded to 10 MB limit github imposes
+
+The following ones were rendered with 1000 dpi and then encoded, to overcome github's limit of 10 MB. 
+
+
+- [CoToMATLAB](#cotomatlab)
+  * [Density equal to 0.4](#density-equal-to-04)
+    + [Without PBC](#without-pbc)
+    + [With PBC](#with-pbc)
+  * [Density equal to 0.5](#density-equal-to-05)
+    + [Without PBC](#without-pbc-1)
+    + [With PBC](#with-pbc-1)
+  * [Density equal to 0.6](#density-equal-to-06)
+    + [Without PBC](#without-pbc-2)
+    + [With PBC](#with-pbc-2)
+  * [Density equal to 0.7](#density-equal-to-07)
+    + [Without PBC](#without-pbc-3)
+    + [With PBC](#with-pbc-3)
+  * [Density equal to 0.8](#density-equal-to-08)
+    + [Without PBC](#without-pbc-4)
+    + [With PBC](#with-pbc-4)
+  * [Density equal to 0.9](#density-equal-to-09)
+    + [Without PBC](#without-pbc-5)
+    + [With PBC](#with-pbc-5)
+
+
 ## Density equal to 0.4
 ### Without PBC
 
