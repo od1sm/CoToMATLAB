@@ -1,8 +1,7 @@
 # CoToMATLAB
-Videos generated from Monte Carlo simulations of hard discs in the NVT ensemble , either with or without Periodic Boundary Conditions.
+Videos generated from Monte Carlo simulations of hard discs in the NVT ensemble, with or without Periodic Boundary Conditions.
 
-The following ones were rendered with 1000 dpi and then encoded, to overcome github's limit of 10 MB. Original files are also uploaded in splitted zips in the repo.
-
+The following videos were rendered at 1000 DPI and then encoded to circumvent GitHub's 10 MB size limit. The original files are also available in this repository in splitted zips.
 
 - [CoToMATLAB](#cotomatlab)
   * [Density equal to 0.4](#density-equal-to-04)
